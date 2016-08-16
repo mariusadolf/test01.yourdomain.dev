@@ -16,3 +16,12 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+
+wp-admin/
+wp-content/*.*
+wp-content/plugins/
+wp-content/themes/*.*
+wp-content/themes/twentyfifteen
+wp-content/themes/twentyfourteen
+wp-includes/
+/*.*
